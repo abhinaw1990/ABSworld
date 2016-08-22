@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtpieceShopping", "ArtpieceShopping\ArtpieceShopping.csproj", "{8C555F17-60C3-40F7-B282-26910452321E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtpieceShopping.Tests", "ArtpieceShopping.Tests\ArtpieceShopping.Tests.csproj", "{31F633DB-422B-4DBD-B41E-DCB8388EB9F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C555F17-60C3-40F7-B282-26910452321E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C555F17-60C3-40F7-B282-26910452321E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C555F17-60C3-40F7-B282-26910452321E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C555F17-60C3-40F7-B282-26910452321E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F633DB-422B-4DBD-B41E-DCB8388EB9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F633DB-422B-4DBD-B41E-DCB8388EB9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F633DB-422B-4DBD-B41E-DCB8388EB9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F633DB-422B-4DBD-B41E-DCB8388EB9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
